@@ -71,12 +71,7 @@ if ans.lower()  == "a":
 else:
     print("INcorrect!")
       
-ans=input("10. Who was the first person to walk on the Moon?\na) Yuri Gagarin\nb) Neil Armstrong\nc) Buzz Aldrin\nd) Michael Collins\n")
-if ans.lower()  == "b":
-    print("Correct !")
-    score+=1
-else:
-    print("INcorrect!")
+
     
 
 print("Your Score for is: ",score)
